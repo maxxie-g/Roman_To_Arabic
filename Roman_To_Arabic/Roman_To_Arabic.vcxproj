@@ -111,7 +111,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Users\Sonja\Desktop\Programming\C++ - Sate 2017\33-0117-0004\roman_to_arabic.cpp" />
+    <ClCompile Include="..\..\..\Users\Sonja\Desktop\Programming\C++ - Sate 2017\33-0117-0004\main.cpp" />
+    <ClCompile Include="conversion.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

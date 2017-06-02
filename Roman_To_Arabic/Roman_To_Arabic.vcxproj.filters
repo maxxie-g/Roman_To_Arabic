@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Users\Sonja\Desktop\Programming\C++ - Sate 2017\33-0117-0004\roman_to_arabic.cpp">
+    <ClCompile Include="..\..\..\Users\Sonja\Desktop\Programming\C++ - Sate 2017\33-0117-0004\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="conversion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

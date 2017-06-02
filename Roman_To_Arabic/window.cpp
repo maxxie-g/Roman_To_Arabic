@@ -1,0 +1,1 @@
+int CALLBACK WinMain()
